@@ -8,7 +8,7 @@ export const columns = [
       accessor: 'month'
     },
     {
-      Header: "# of Transactions",
+      Header: "No of Transactions",
       accessor: 'numTransactions'
     },
     {
