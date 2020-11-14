@@ -7,25 +7,25 @@ export default function() {
         {
           custid: 1,
           name: "Kevin",
-          amt: 120,
+          amt: 140,
           transactionDt: "05-01-2020"
         },
         {
           custid: 1,
           name: "John",
-          amt: 75,
+          amt: 56,
           transactionDt: "05-21-2020"
         },
         {
           custid: 1,
           name: "Dan",
-          amt: 94,
+          amt: 86,
           transactionDt: "05-21-2020"
         },
         {
           custid: 1,
           name: "Jack",
-          amt: 10,
+          amt: 14,
           transactionDt: "06-01-2020"
         },
         {
@@ -37,31 +37,31 @@ export default function() {
         {
           custid: 1,
           name: "John",
-          amt: 200,
+          amt: 250,
           transactionDt: "07-01-2020"
         },
         {
           custid: 1,
           name: "John",
-          amt: 1,
+          amt: 6,
           transactionDt: "07-04-2020"
         },
         {
           custid: 1,
           name: "John",
-          amt: 80,
+          amt: 90,
           transactionDt: "07-03-2020"
         },
         {
           custid: 1,
           name: "John",
-          amt: 224,
+          amt: 280,
           transactionDt: "07-21-2020"
         },
         {
           custid: 2,
           name: "hall",
-          amt: 125,
+          amt: 115,
           transactionDt: "05-01-2020"
         },
         {
@@ -85,13 +85,13 @@ export default function() {
         {
           custid: 2,
           name: "Dan",
-          amt: 200,
+          amt: 100,
           transactionDt: "07-01-2020"
         },
         {
           custid: 2,
           name: "Dan",
-          amt: 224,
+          amt: 235,
           transactionDt: "07-21-2020"
         },
         {
